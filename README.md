@@ -18,11 +18,11 @@
 
 тест_2 (при некорректном вводе запроса, ввод запрашивается повторно)
 
-![image](https://github.com/ciigann/Caesar-cipher/assets/146112930/25b7899e-d6f3-423f-847f-53ae130723dd)
+![image](https://github.com/ciigann/Caesar-cipher/assets/146112930/1be3a4dd-1796-4367-8fef-8fbc75903a12)
 
 Раскодируем закодированное сообщение обратно
 
-![image](https://github.com/ciigann/Caesar-cipher/assets/146112930/c9ee2d88-9da7-4b0a-b613-6529c609c320)
+![image](https://github.com/ciigann/Caesar-cipher/assets/146112930/1df21b1f-97ee-4b80-b998-61b3dc19907a)
 
 тест_3
 
